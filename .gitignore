@@ -2,41 +2,15 @@
 logs
 *.log
 
-# Runtime data
-pids
-*.pid
-*.seed
-
 # Dependency directory
 node_modules
 
-*.swp
-*.svn
-*.lock
 *.DS_Store
 .*
 !.travis.yml
-!.coveragerc
-!.codeclimate.yml
 !.editorconfig
 !.eslintrc.js
 *.xml
-htmlcov
-build
-dist
-.ropeproject
-.project
 .settings
 downloads
-parts
-bin
-/dist
 *~
-distribute-*.tar.gz
-include
-lib
-man
-share
-*.sublime-project
-*.sublime-workspace
-coverage-*.txt
